@@ -29,7 +29,7 @@
     "desktop-notifications": "^0.1.7",
     "desktop-trampoline": "desktop/desktop-trampoline#v0.9.8",
     "dexie": "^2.0.0",
-    "dompurify": "^2.3.3",
+    "dompurify": "^2.5.4",
     "double-ended-queue": "^2.1.0-0",
     "dugite": "^1.104.0",
     "electron-window-state": "^5.0.3",
